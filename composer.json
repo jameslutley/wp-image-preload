@@ -1,0 +1,27 @@
+{
+  "name": "jameslutley/wp-image-preload",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Image Preloader / LazyLoad plugin for WordPress",
+  "homepage": "https://github.com/jameslutley/wp-image-preload",
+  "authors": [
+    {
+      "name": "Arden de Raaij",
+      "email": "a.de.raaij@gmail.com",
+      "homepage": "http://arden.nl/"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/aderaaij/wp-image-preload/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^2.5.1"
+  }
+}
